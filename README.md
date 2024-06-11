@@ -16,8 +16,10 @@
         }
         header {
             background: #11151e; /* Dark blue */
-            padding: 20px 0;
+            padding: 20px;
             text-align: center;
+            border-bottom-left-radius: 30px;
+            border-bottom-right-radius: 30px;
         }
         .container {
             max-width: 800px;
@@ -35,6 +37,8 @@
             text-align: center;
             padding: 20px 0;
             background: #11151e; /* Dark blue */
+            border-top-left-radius: 30px;
+            border-top-right-radius: 30px;
         }
         a {
             color: #ff6a00; /* Orange */
@@ -42,6 +46,13 @@
         }
         a:hover {
             text-decoration: underline;
+        }
+
+        /* Responsive Design */
+        @media only screen and (max-width: 600px) {
+            header, footer {
+                border-radius: 0;
+            }
         }
     </style>
 </head>
