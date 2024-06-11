@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #0c0d13; /* Space color */
+            background-color: #d8c6ff; /* Light purple */
             color: #fff;
             margin: 0;
             padding: 0;
@@ -15,11 +15,9 @@
             line-height: 1.6;
         }
         header {
-            background: #11151e; /* Dark blue */
+            background: #7d58ff; /* Darker purple */
             padding: 20px;
             text-align: center;
-            border-bottom-left-radius: 30px;
-            border-bottom-right-radius: 30px;
         }
         .container {
             max-width: 800px;
@@ -27,7 +25,7 @@
             padding: 20px;
         }
         .section {
-            background: #1e2132; /* Dark purple */
+            background: #b394ff; /* Lighter purple */
             padding: 30px;
             margin-bottom: 30px;
             border-radius: 10px;
@@ -36,9 +34,12 @@
         footer {
             text-align: center;
             padding: 20px 0;
-            background: #11151e; /* Dark blue */
+            background: #7d58ff; /* Darker purple */
             border-top-left-radius: 30px;
             border-top-right-radius: 30px;
+        }
+        h1 {
+            color: #fff; /* White color for "External" */
         }
         a {
             color: #ff6a00; /* Orange */
@@ -58,7 +59,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to External.cc</h1>
+        <h1>Welcome to <span style="color: white;">External</span>.cc</h1>
     </header>
     <div class="container">
         <div class="section">
