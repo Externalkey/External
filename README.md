@@ -34,7 +34,7 @@
             width: 100%;
         }
         a {
-            color: #007bff;
+            color: purple; /* Updated to purple */
             text-decoration: none;
         }
         a:hover {
