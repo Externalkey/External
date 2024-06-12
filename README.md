@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>external.cc</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -49,10 +48,10 @@ python external.cc --option value
       <h2>Developer Section</h2>
       <ul>
         <li>
-          <a href="https://github.com/developer1" target="_blank">Developer 1</a>
+          <a href="https://github.com/TheRealXORA"> TheRealXora 1</a>
         </li>
         <li>
-          <a href="https://github.com/developer2" target="_blank">Developer 2</a>
+          <a href="https://github.com/Externalkey">extnalkey</a>
         </li>
       </ul>
       <h3>Join our Discord</h3>
