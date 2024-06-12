@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -37,7 +37,7 @@
       </ul>
       <h3>Join our Discord</h3>
       <p>Join our Discord community to get the script and for further assistance:</p>
-      <a href="https://discord.gg/yourdiscordlink" target="_blank" class="discord-button">Join Discord</a>
+      <a href="https://discord.gg/EmpZqxzXYe" class="discord-button">Join Discord</a>
     </section>
   </main>
   <footer>
