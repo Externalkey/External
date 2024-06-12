@@ -9,7 +9,6 @@
 <body>
   <header>
     <div class="container">
-      <img src="https://i.postimg.cc/HntZjBQ9/Black-And-White-Y2k-Star-Fashion-Style-Logo.png" alt="Logo" class="logo">
       <h1>external.cc</h1>
       <p>A modern and clean script for Roblox LUA.</p>
     </div>
@@ -48,24 +47,17 @@ python external.cc --option value
     </section>
     <section>
       <h2>Developer Section</h2>
-      <p>This section is dedicated to developers who want to contribute to the project.</p>
-      <pre>
-# Clone the repository
-git clone https://github.com/yourusername/external.cc.git
-
-# Create a new branch
-git checkout -b feature-branch
-
-# Make your changes
-
-# Commit your changes
-git commit -m "Description of changes"
-
-# Push the branch
-git push origin feature-branch
-
-# Open a pull request
-      </pre>
+      <ul>
+        <li>
+          <a href="https://github.com/developer1" target="_blank">Developer 1</a>
+        </li>
+        <li>
+          <a href="https://github.com/developer2" target="_blank">Developer 2</a>
+        </li>
+      </ul>
+      <h3>Join our Discord</h3>
+      <p>Join our Discord community to get the script and for further assistance:</p>
+      <a href="https://discord.gg/yourdiscordlink" target="_blank" class="discord-button">Join Discord</a>
     </section>
   </main>
   <footer>
