@@ -1,56 +1,56 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Website</title>
-    <style>
-        body {
-            background-color: purple;
-            color: white;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .about-section, .developer-section {
-            margin-bottom: 30px;
-        }
-        .developer-section {
-            font-style: italic;
-        }
-        img.logo {
-            display: block;
-            margin: 0 auto;
-            max-width: 300px;
-            height: auto;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>external.cc</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-<div class="container">
-    <img class="logo" src="https://i.postimg.cc/fy6cJkBh/IMG-4885.jpg" alt="Main Logo">
-    
-    <h1>Welcome to Our GitHub Website</h1>
-    
-    <section class="about-section">
-        <h2>About Us</h2>
-        <p>This is a GitHub website template created for demonstration purposes. You can customize it to suit your project needs.</p>
+  <header>
+    <div class="container">
+      <h1>external.cc</h1>
+      <p>A modern and clean script for XYZ.</p>
+    </div>
+  </header>
+  <main class="container">
+    <section>
+      <h2>Features</h2>
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+        <li>Feature 3</li>
+      </ul>
     </section>
-    
-    <section class="developer-section">
-        <h2>Developed By</h2>
-        <p>Developer Name(s): John Doe</p>
-        <p>Email: john@example.com</p>
-        <p>GitHub: <a href="https://github.com/johndoe" target="_blank">johndoe</a></p>
-    </section>
-</div>
+    <section>
+      <h2>Installation</h2>
+      <pre>
+# Clone the repository
+git clone https://github.com/yourusername/external.cc.git
 
+# Navigate into the directory
+cd external.cc
+
+# Install dependencies (if any)
+# pip install -r requirements.txt
+
+# Run the script
+python external.cc
+      </pre>
+    </section>
+    <section>
+      <h2>Usage</h2>
+      <pre>
+# Example usage
+python external.cc --option value
+      </pre>
+    </section>
+  </main>
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 external.cc. Licensed under the MIT License.</p>
+    </div>
+  </footer>
 </body>
 </html>
