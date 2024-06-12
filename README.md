@@ -9,7 +9,7 @@
   <header>
     <div class="container">
       <h1>external.cc</h1>
-      <p>A modern and clean script for Roblox LUA.</p>
+      <p>External.cc ks a adavnce and good lua script. for games like "dahood" and hood customs. External.cc orginaly known as "Externals Cam" was made so players have an advantege at games. although it may not be the best we have gotten some good reviews and feed back!</p>
     </div>
   </header>
   <main class="container">
