@@ -3,55 +3,36 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>external.cc</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <div class="container">
-      <h1>external.cc</h1>
-      <p>External.cc ks a adavnce and good lua script. for games like "dahood" and hood customs. External.cc orginaly known as "Externals Cam" was made so players have an advantege at games. although it may not be the best we have gotten some good reviews and feed back!</p>
+      <h1>External.cc</h1>
+      <p>External.cc is an advanced and good LUA script for games like "Da Hood" and "Hood Customs". Originally known as "Externals Cam", External.cc was made to give players an advantage in games. Although it may not be the best, we have received some good reviews and feedback!</p>
     </div>
   </header>
   <main class="container">
     <section>
       <h2>Features</h2>
       <ul>
-        <li>Feature 1</li>
-        <li>Feature 2</li>
-        <li>Feature 3</li>
+        <li>CamLock</li>
+        <li>Aimlock</li>
+        <li>Silent Aim</li>
+        <li>ESP</li>
+        <li>Speed Changer</li>
+        <li>And More!</li>
       </ul>
-    </section>
-    <section>
-      <h2>Installation</h2>
-      <pre>
-# Clone the repository
-git clone https://github.com/yourusername/external.cc.git
-
-# Navigate into the directory
-cd external.cc
-
-# Install dependencies (if any)
-# pip install -r requirements.txt
-
-# Run the script
-python external.cc
-      </pre>
-    </section>
-    <section>
-      <h2>Usage</h2>
-      <pre>
-# Example usage
-python external.cc --option value
-      </pre>
     </section>
     <section>
       <h2>Developer Section</h2>
       <ul>
         <li>
-          <a href="https://github.com/TheRealXORA"> TheRealXora 1</a>
+          <a href="https://github.com/TheRealXORA" target="_blank">TheRealXora</a>
         </li>
         <li>
-          <a href="https://github.com/Externalkey">extnalkey</a>
+          <a href="https://github.com/Externalkey" target="_blank">Externalkey</a>
         </li>
       </ul>
       <h3>Join our Discord</h3>
