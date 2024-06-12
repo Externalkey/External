@@ -36,7 +36,7 @@
         </li>
       </ul>
       <h3>Join our Discord</h3>
-      <p>Join our Discord community to get the script and for further assistance:</p>
+      <p>Join our Discord community to get the script and for further assistance using the script!:</p>
       <a href="https://discord.gg/EmpZqxzXYe" class="discord-button">Join Discord</a>
     </section>
   </main>
